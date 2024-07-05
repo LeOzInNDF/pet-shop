@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+a {
+  color: #fff;
+}
+
+.secao-banner {
+  width: 100%;
+  padding: 120px 80px;
+  background-image: url(/assets/banner-topo.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.container-logo {
+  max-width: 250px;
+  color: #3c184e;
+  
+}
+
+.paragrafo-logo  {
+  font-size: 35px;
+  margin-bottom: 5px;
+  
+}
+
+.paragrafo-slogan {
+  font-size: 14px;
+  text-align: center;
+}
+
+.container-logo img {
+  width: 30px;
+  margin-right: 5px;
+}
+
+.container-banner-topo {
+  max-width: 1204px;
+  border-radius: 10px;
+  padding: 40px;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+}
+
+h1 {
+  font-size: 60px;
+  color: #3c148e;
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 40px;
+}
+
+.paragrafo-fale-conosco {
+  width: 200px;
+  padding: 10px 25px;
+  margin: 0 auto 0;
+  border-radius: 10px;
+  background-color: #3c184e;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+}
+
+.paragrafo-fale-conosco img {
+  width: 20px;
+}
+
+.secao-servicos {
+  width: 100%;
+  padding: 120px 80px;
+ 
+}
+
+.secao-servicos h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.container-servicos-lista {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  color: #3c184e;
+  list-style:square;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
