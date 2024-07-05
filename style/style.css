@@ -92,7 +92,29 @@ h1 {
   max-width: 800px;
   margin: 0 auto 50px;
   color: #3c184e;
-  list-style:square;
   font-size: 20px;
   margin-bottom: 20px;
+}
+
+li {
+  font-size: 20px;
+  margin-bottom: 20px;
+  list-style:square;
+}
+
+span {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.container-servicos-imagens {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-imagens {
+  border-radius: 5px;
+  box-shadow: 3px 6px 10px 6px #0000005c;
 }
