@@ -110,11 +110,88 @@ span {
 .container-servicos-imagens {
   max-width: 800px;
   margin: 0 auto;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center;
+  
 }
 
-.container-imagens {
+.container-imagens img {
   border-radius: 5px;
   box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa-propaganda {
+  padding: 120px 80px;
+  background-color: #3c184e;
+  text-align: center;
+}
+
+.faixa-propaganda p {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+}
+
+.container-faixa img {
+  width: 50px;
+  height: 50px;
+  margin: 0 20px;
+}
+
+.secao-marcas {
+  width: 100%;
+  padding: 120px 80px;
+  
+}
+
+.secao-marcas h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.container-marcas {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container-marcas img {
+  width: 148px;
+  height: 148px;
+  margin: 0 15px 0 15px;
+}
+
+.secao-onde-estamos {
+  width: 100%;
+  padding: 120px 80px;
+  text-align: center;
+}
+
+.secao-onde-estamos h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px 0;
+}
+
+.secao-onde-estamos p {
+  font-size: 20px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px 0;
+}
+
+.rodape {
+  width: 100%;
+  padding: 10px 0 10px 0;
+  background-color: #3c184e;
+  
+}
+
+.rodape p {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
 }
